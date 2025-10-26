@@ -1,16 +1,27 @@
-## Hi there 👋
+# Melvin Kaneshiro
 
-<!--
-**m6lvink/m6lvink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UH Hilo | 同志社大学
 
-Here are some ideas to get you started:
+**Focus:** AI/ML · Networking (HTTP/S, DNS, load balancing) · Practical IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · C++ · JavaScript · PowerShell · React · Node.js · Flask · Git · Docker · VS Code
+
+---
+
+Most of my work focuses on applied AI/ML, networking, and general IT. 
+
+I like building small, reliable tools and learning how systems fit together :)
+
+---
+
+**Coursework:**  
+AI/ML Fundamentals · Data Structures & Algorithms · Software Engineering
+
+**Links:**  
+[LinkedIn](https://www.linkedin.com/in/mnkaneshiro)  
+[Personal Site](https://melvin-kaneshiro.onrender.com)
+
+---
+
+![Location](https://img.shields.io/badge/Location-Hawaiʻi-blue)
+![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Networking-informational)
