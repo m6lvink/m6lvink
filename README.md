@@ -1,27 +1,34 @@
+<div align="center">
+
 # Melvin Kaneshiro
-
-UH Hilo | 同志社大学
-
-**Focus:** AI/ML · Networking (HTTP/S, DNS, load balancing) · Practical IT
-
-**Stack:** Python · C++ · JavaScript · PowerShell · React · Node.js · Flask · Git · Docker · VS Code
+**CS @ UH Hilo | 同志社大学**
 
 ---
 
-Most of my work focuses on applied AI/ML, networking, and general IT. 
+### **Focus**
+IT Infrastructure · Network Automation · AI/ML
 
-I like building small, reliable tools and learning how systems fit together :)
-
----
-
-**Coursework:**  
-AI/ML Fundamentals · Data Structures & Algorithms · Software Engineering
-
-**Links:**  
-[LinkedIn](https://www.linkedin.com/in/mnkaneshiro)  
-[Personal Site](https://melvin-kaneshiro.onrender.com)
+### **Stack**
+Python · PowerShell · C++ · JavaScript · Docker · Git
 
 ---
 
-![Location](https://img.shields.io/badge/Location-Hawaiʻi-blue)
-![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Networking-informational)
+</div>
+
+### 👋 About Me
+I build tools to eliminate monotonous tasks.
+
+My work focuses on finding solutions for daily workflows. I enjoy optimizing how things get done and making tasks run smoother.
+
+<br />
+
+<div align="center"> 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melvin_Kaneshiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnkaneshiro)
+  [![Personal Site](https://img.shields.io/badge/Website-Personal_Site-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://melvin-kaneshiro.onrender.com)
+
+  <br />
+  
+  ![Location](https://img.shields.io/badge/Location-Hawaiʻi-informational?style=flat-square)
+  
+</div>
