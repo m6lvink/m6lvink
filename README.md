@@ -32,3 +32,7 @@ My work focuses on finding solutions for daily workflows. I enjoy optimizing how
   ![Location](https://img.shields.io/badge/Location-Hawaiʻi-informational?style=flat-square)
   
 </div>
+
+<div align="center">
+  <img width="533" height="397" alt="image" src="https://github.com/user-attachments/assets/dd6c5edb-4f0d-4c5b-a275-d8a45257a42b" />
+</div>
