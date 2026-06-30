@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**m6lvink/m6lvink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Melvin Kaneshiro
+**CS @ UH Hilo**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Focus**
+IT Infrastructure · Network Automation · AI/ML
+
+### **Stack**
+Python · PowerShell · C++ · JavaScript · Docker · Git
+
+---
+
+</div>
+
+### About Me
+I build tools to eliminate monotonous tasks.
+
+My work focuses on finding solutions for daily workflows. I enjoy optimizing how things get done and making tasks run smoother.
+
+<br />
+
+<div align="center"> 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melvin_Kaneshiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnkaneshiro)
+  [![Personal Site](https://img.shields.io/badge/Website-Personal_Site-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://melvin-kaneshiro.onrender.com)
+
+  <br />
+  
+  ![Location](https://img.shields.io/badge/Location-Hawaiʻi-informational?style=flat-square)
+  
+</div>
